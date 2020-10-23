@@ -21,3 +21,7 @@
 [submodule "turtlebot3_msgs"]
 	path = src/sim_related_src/turtlebot3_msgs
 	url  = https://github.com/ROBOTIS-GIT/turtlebot3_msgs
+
+[submodule "teleop_tools"]
+	path = src/teleop/tools
+	url  = https://github.com/ros-teleop/teleop_tools

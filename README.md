@@ -13,3 +13,8 @@ Type in terminal
 export TURTLEBOT3_MODEL=waffle 
 roslaunch turtlebot3_gazebo turtlebot3_house.launch
 ```
+
+## How to run mouse teleop?
+Type in terminal \
+`roslaunch mouse_teleop mouse_teleop.launch mouse_vel:=cmd_vel` \
+This set the command output to the topic *cmd_vel*
