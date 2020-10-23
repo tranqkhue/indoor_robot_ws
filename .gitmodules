@@ -1,0 +1,19 @@
+[submodule "gazebo_ros_pkgs"]
+	path = src/sim_related_src/gazebo_ros_pkgs
+	url  = https://github.com/ros-simulation/gazebo_ros_pkgs
+
+[submodule "moveit_msgs"]
+	path = src/sim_related_src/moveit_msgs
+	url  = https://github.com/ros-planning/moveit_msgs
+
+[submodule "object_recognition_msgs"]
+	path = src/sim_related_src/object_recognition_msgs
+	url  = https://github.com/wg-perception/object_recognition_msgs
+
+[submodule "octomap_msgs"]
+	path = src/sim_related_src/octomap_msgs
+	url  = https://github.com/OctoMap/octomap_msgs
+
+[submodule "turtlebot3_simulations"]
+	path = src/sim_related_src/turtlebot3_simulations
+	url  = https://github.com/ROBOTIS-GIT/turtlebot3_simulations

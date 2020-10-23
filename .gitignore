@@ -3,6 +3,7 @@
 
 #Except
 !.gitignore
+!.gitmodules
 !README.md
 
 !src
