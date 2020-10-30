@@ -23,8 +23,5 @@
 	url  = https://github.com/ROBOTIS-GIT/turtlebot3_msgs
 
 [submodule "teleop_tools"]
-	path = src/teleop/tools
+	path = src/teleop_tools
 	url  = https://github.com/ros-teleop/teleop_tools
-[submodule "src/src/teleop_tools"]
-	path = src/src/teleop_tools
-	url = https://github.com/ros-teleop/teleop_tools
